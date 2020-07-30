@@ -12,4 +12,6 @@
 
 [You can find the finished results in this Google Colab Notebook](https://colab.research.google.com/drive/1w8UbVHKdwimc4umIeQEmEyiosa_WVT1u?usp=sharing)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1w8UbVHKdwimc4umIeQEmEyiosa_WVT1u?usp=sharing)
+
 #### Some graphs may not be supported in offline mode, in that case, use Google Colab Link
