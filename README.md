@@ -1,4 +1,4 @@
-# COVID-19-Extensive-Analysis
+# COVID-19-Report
 
 ## This is an extensive analysis on Datasets on COVID 19 from [Kaggle](https://www.kaggle.com/sudalairajkumar/covid19-in-india) 
 
